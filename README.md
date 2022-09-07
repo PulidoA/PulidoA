@@ -1,6 +1,6 @@
-###  ALEXANDRA PULIDO - Frontend Developer | JavaScript
 
 
+![perfil](perfil.png)
 
 ### Where to find me
 
